@@ -1,6 +1,6 @@
-# :shell: Learning Bash :shell:
+# :shell: 0x1B - WebStack Debugging #4 :shell:
 
-In this project I will be learning various techniques to use bash for scripting. I hope to use bash to make my coding, development, and deployment in 2019 much more seemless. I use python for scripting right now, but bash is very powerful for common SRE tasks so I feel I must learn it to be proficient as a software engineer.
+In this project I will be debugging nginx issues, specifically the issue of limited open files for worker processes. This issue was resolved by the puppet file located in this project. It was run in a docker container to fix the issue.
 
 ## :running: Getting Started
 

@@ -1,6 +1,6 @@
-# :shell: Learning Bash :shell:
+# :shell: 0x08 - More Networks :shell:
 
-In this project I will be learning various techniques to use bash for scripting. I hope to use bash to make my coding, development, and deployment in 2019 much more seemless. I use python for scripting right now, but bash is very powerful for common SRE tasks so I feel I must learn it to be proficient as a software engineer.
+In this project I will be exploring local hosts and the host file as well as some DNS. I have used this previously while developing mobile and web applications so I hope to further my understanding in this project.
 
 ## :running: Getting Started
 

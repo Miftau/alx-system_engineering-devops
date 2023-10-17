@@ -1,6 +1,6 @@
-# :shell: Learning Bash :shell:
+# :shell: 0x0A - SSH :shell:
 
-In this project I will be learning various techniques to use bash for scripting. I hope to use bash to make my coding, development, and deployment in 2019 much more seemless. I use python for scripting right now, but bash is very powerful for common SRE tasks so I feel I must learn it to be proficient as a software engineer.
+In this project I will be learning more about connecting to servers via SSH. I have previously used SSH to connect to my own production servers for applications, but I hope to further my understanding of how the connection is facilitated on a core level.
 
 ## :running: Getting Started
 

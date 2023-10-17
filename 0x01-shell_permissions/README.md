@@ -1,6 +1,6 @@
-# :shell: Learning Bash :shell:
+# :shell: 0x01 - Bash Permissions :shell:
 
-In this project I will be learning various techniques to use bash for scripting. I hope to use bash to make my coding, development, and deployment in 2019 much more seemless. I use python for scripting right now, but bash is very powerful for common SRE tasks so I feel I must learn it to be proficient as a software engineer.
+In this sub-project I will be getting acquainted with the basics of bash. I will be creating basic scripts and understanding execution permissions in the linux file system. Primarily a permissions focused project.
 
 ## :running: Getting Started
 

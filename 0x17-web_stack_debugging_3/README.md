@@ -1,6 +1,7 @@
-# :shell: Learning Bash :shell:
+# :shell: 0x17 - Web Stack Debugging #3 :shell:
 
-In this project I will be learning various techniques to use bash for scripting. I hope to use bash to make my coding, development, and deployment in 2019 much more seemless. I use python for scripting right now, but bash is very powerful for common SRE tasks so I feel I must learn it to be proficient as a software engineer.
+In this project I will be debugging a LAMP stack, specifically wordpress to figure out what is going wrong and causing a 500 server error.
+To solve this problem I made use of `strace` and wordpress' built-in debug mode.
 
 ## :running: Getting Started
 

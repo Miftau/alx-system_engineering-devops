@@ -1,6 +1,6 @@
-# :shell: Learning Bash :shell:
+# :shell: 0x03 - Bash Variables and Expansions :shell:
 
-In this project I will be learning various techniques to use bash for scripting. I hope to use bash to make my coding, development, and deployment in 2019 much more seemless. I use python for scripting right now, but bash is very powerful for common SRE tasks so I feel I must learn it to be proficient as a software engineer.
+In this sub-project I will be learning primarily about expansions in bash. I will be learning variable expansion as well as arithmetic expansion and even command expansion. All of these techniques will be invaluable using shell dynamically.
 
 ## :running: Getting Started
 
